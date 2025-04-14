@@ -9,6 +9,20 @@ $for(css)$
 $endfor$
 </head>
 <body>
-$body$
+    <div id="titre">TITRE</div>
+    <div id="body">
+        <div id="menu">
+            <ol>
+            $for(listMenu)$
+                <li>$listMenu$</li>
+            
+            </ol>
+        </div>
+        <div id="contenu">
+            $body$ 
+        </div>
+    </div>
+    <div id="auteurs">AUTEURS</div>
+
 </body>
 </html>
