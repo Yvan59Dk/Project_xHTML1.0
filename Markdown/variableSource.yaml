@@ -1,0 +1,6 @@
+titre: Un site sur Oppenheimer
+css: "../css/struct.css"
+
+#Source
+titreSource: Les Sources utilisés
+source: ["Wikipédia","IMDb", "Box Office Mojo", "Allociné"]
