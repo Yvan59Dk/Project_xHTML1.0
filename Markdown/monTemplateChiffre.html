@@ -22,22 +22,18 @@ $endfor$
 
         <!-- Le Contenu de la page => Histoire de la production du film -->
         <div id="contenu">
-            <h1>$titreHistoire$</h1>
+            <h1>$titreChiffre$</h1>
 
-            <h2>$Partie1$</h2>
-            <p>$histoire1$</p>
+            <h2>$chiffre1$</h2>
+            <ul>
+            $for(laureat)$
+                <li>$laureat$</li>
+            $endfor$
+            </ul>
+            <p>$histChiffre1$</p>
 
-            <h2>$Partie2$</h2>
-            <p>$histoire2$</p>
-
-            <h2>$Partie3$</h2>
-            <p>$histoire3$</p>
-
-            <h2>$Partie4$</h2>
-            <p>$histoire4$</p>
-            
-            <h2>$Partie5$</h2>
-            <p>$histoire5$</p>
+            <h2>$chiffre2$</h2>
+            <p>$histChiffre2$</p>
         </div>
     </div>
     <div id="auteurs">AUTEURS</div>

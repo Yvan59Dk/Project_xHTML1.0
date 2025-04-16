@@ -26,10 +26,11 @@ $endfor$
             
             <!-- Liste du casting avec lien vers wikipédia -->
             <ul>
-            $for(casting)$
-                <a href="#">$casting$</a>
+            $for cast in casting$
+                <li>$cast.role$ - <a href="$cast.lien$">$cast.nom$</a></li>
             $endfor$
             </ul>
+
         </div>
     </div>
     <div id="auteurs">AUTEURS</div>

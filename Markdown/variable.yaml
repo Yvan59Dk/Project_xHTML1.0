@@ -1,0 +1,89 @@
+titre: Un site sur Oppenheimer
+css: "../css/struct.css"
+
+#Principal
+titrePrincipal: Oppenheimer
+description: |
+  Oppenheimer est un film écrit, produit et réalisé par Christopher Nolan et sortie au cinéma en 2023. Le film se base sur la vie de Oppenheimer, le physicien étant à l'origine des recherches sur la bombe atomique durant le Projet Manhattan. Le film se base sur la vision torturé du physicien méttant en opposion sa moral, son éthique avec la technologie dévastratrice qu'il recherche.
+titreContenu: De quoi va t-on parler ?
+descriptionContenu: |
+  Dans ce site internet, nous allons voir en revu le synopsis du film puis, plus précisément, les différents passage marquant de celui ci dans la rubrique "Histoire".
+  Dans la rubrique "Production", nous allons voir comment se film à été produit : Par quel méthode ont t-il pu mettre une ambiance aussi pessante ? Ou encore, comment on t-il structuré le film ?
+  Dans la rubrique "Casting", nous allons présenté le casting présent dans ce film.
+  Dans la rubrique "Avis", je vais présenter mon avis sur le film.
+  Dans la rubrique "Source", nous allons voir les sources utilisé pour faire ce site.
+
+#Histoire
+titreHistoire: L'Histoire de Oppenheimer.
+synopsis: |
+  En 1942, convaincus que l'Allemagne nazie est en train de développer une arme nucléaire, les États-Unis initient, dans le plus grand secret, le "Projet Manhattan" destiné à mettre au point la première bombe atomique de l'histoire. Pour piloter ce dispositif, le gouvernement engage J. Robert Oppenheimer, brillant physicien, qui sera bientôt surnommé "le père de la bombe atomique". C'est dans le laboratoire ultra-secret de Los Alamos, au cœur du désert du Nouveau-Mexique, que le scientifique et son équipe mettent au point une arme révolutionnaire dont les conséquences, vertigineuses, continuent de peser sur le monde actuel…
+histoire1: | 
+  En 1926, Robert Oppenheimer étudie au laboratoire Cavendish de Cambridge au Royaume-Uni. Outre son mal du pays, il est en proie à des crises d'anxiété, surtout parce qu'il ne se sent pas à l'aise dans les travaux pratiques ; il préfère la théorie. Il travaille sous la direction de l'exigeant Patrick Blackett et va même jusqu'à empoisonner la pomme de ce dernier[2]. Il se ravisera cependant, surtout quand Niels Bohr sera sur le point de la manger accidentellement. Oppenheimer termine son doctorat en physique à l'université de Göttingen en Allemagne et rencontre notamment Werner Heisenberg lors d'une conférence à l'École polytechnique fédérale de Zurich[3]. Il retourne ensuite aux États-Unis où il espère développer ses recherches en physique quantique. Il commence à enseigner à l'université de Californie à Berkeley et au California Institute of Technology. En 1936, il rencontre Jean Tatlock, une jeune femme membre du Parti communiste. Ils entretiendront une relation amoureuse intermittente jusqu'à la mort de celle-ci — en janvier 1944 —, et ce, malgré le mariage d'Oppenheimer avec Katherine Puening, biologiste et ex-communiste, qui a lieu en 1940. Lié à des communistes, Robert Oppenheimer est dès lors surveillé notamment par le FBI.
+histoire2: |
+  En 1939, au début de la Seconde Guerre mondiale, le général Leslie Richard Groves recrute Oppenheimer pour diriger le projet Manhattan. Le but de celui-ci est de développer une bombe atomique. Le scientifique lui a alors assuré qu'il n'avait aucune sympathie communiste. Oppenheimer, qui est juif, est par ailleurs particulièrement motivé pour devancer les nazis sur leur programme d'armes nucléaires en cours, dirigé par Werner Heisenberg, qu'il connaît bien. Oppenheimer rassemble une équipe de scientifiques comprenant Edward Teller, Hans Bethe, Isidor Isaac Rabi et David L. Hill. Il les regroupe à Los Alamos au Nouveau-Mexique au sein d'un laboratoire pour créer secrètement la bombe avec l'intention qu'elle sauverait le monde malgré ses répercussions mondiales potentielles. Pendant le développement, il reçoit la visite de Niels Bohr et s'entretient également avec Albert Einstein, qui lui parlent de la possibilité qu'une telle bombe déclenche une réaction en chaîne qui pourrait détruire le monde.
+histoire3: |
+  En 1945, la Seconde Guerre mondiale touche à sa fin en Europe après la capitulation du Troisième Reich. Certains scientifiques du projet commencent à avoir des doutes sur la nécessité de poursuivre le projet. Néanmoins, la bombe est terminée et l'essai Trinity a lieu avec succès le 16 juillet 1945, juste avant la conférence de Potsdam. Le président américain Harry S. Truman décide de larguer des bombes atomiques sur Hiroshima et Nagasaki pour forcer la reddition du Japon. Dès lors, Robert Oppenheimer devient aux yeux du public le « père de la bombe atomique ». Hanté par l'immense destruction provoquée par les bombes, le scientifique rencontre le président américain pour l'exhorter à la retenue dans le développement d'armes de plus en plus puissantes. Truman n'est cependant pas touché par la détresse d'Oppenheimer, qu'il perçoit comme une faiblesse, et insiste sur le fait que lui seul, en tant que président, porte la responsabilité de l'utilisation de la bombe. Oppenheimer continue néanmoins de ressentir une intense culpabilité.
+histoire4: | 
+  Oppenheimer critique alors la poursuite du développement nucléaire, en particulier l'élaboration de la bombe à hydrogène. Cela l'oppose donc à son ancien collaborateur, Edward Teller. Sa position devient un point de discorde au milieu de la guerre froide contre l'Union soviétique. Lewis Strauss, président de la Commission de l'énergie atomique des États-Unis, en veut à Oppenheimer notamment en raison d'une humiliation publique qu'il a subie lors d'un débat sur la circulation des isotopes. Strauss est également persuadé qu'Oppenheimer l'a critiqué auprès d'Einstein. En avril 1954, Strauss manœuvre en secret et organise l'audition de sécurité d'Oppenheimer, visant à prouver que le scientifique est un espion à la solde des Soviétiques. Défendu par certains proches, Oppenheimer est trahi par le témoignage de Teller et d'autres associés. Strauss exploite les liens d'Oppenheimer avec des communistes, anciens ou actuels, tels que sa défunte maîtresse Jean Tatlock et son frère Frank. Malgré les témoignages de plusieurs alliés, l'habilitation de sécurité d'Oppenheimer est révoquée. Cela ternit son image publique et anéantit son influence politique. Plus tard, en 1959, une audience de confirmation du Sénat se réunit pour valider ou non la nomination de Lewis Strauss au poste de secrétaire au Commerce. Contre toute attente, les motivations personnelles et secrètes de Strauss pour faire chuter Oppenheimer sont révélées par David L. Hill, ancien membre du Projet Manhattan. Ces révélations provoquent l'échec de la validation de Strauss.
+histoire5: |
+  En 1963, le président Lyndon B. Johnson remet à Oppenheimer le prix Enrico-Fermi en signe de réhabilitation politique et médiatique. Il est alors révélé que la conversation antérieure d'Oppenheimer avec Einstein ne concernait pas du tout Lewis Strauss, mais plutôt les implications profondes des armes nucléaires sur le long terme. En outre, Einstein lui rappelle une cérémonie au cours de laquelle Oppenheimer et ses collègues lui avaient remis un prix ; mais comme ils pensaient qu'Einstein ne comprenait plus ce qu'il avait initié, le prix en question était plus pour eux que pour lui. Il le prévient alors que la même chose va lui arriver, qu'une fois qu'Oppenheimer sera « suffisamment puni » pour ce qu'il a accompli, il recevra un prix au cours d'une cérémonie et se verra dire que tout est pardonné ; mais que tout comme la cérémonie du prix d'Albert Einstein n'était pas pour lui, celle d'Oppenheimer ne lui sera pas destinée non plus. Finalement, Oppenheimer se demande si l'essai Trinity, et dans une plus large mesure la création de l'arme atomique, n'a pas déclenché une réaction en chaîne d'événements qui pourraient conduire à un holocauste nucléaire.
+
+#Les chiffres
+titreChiffre: Quelques chiffres.
+chiffre1: Nominé 13 fois au Oscar.
+histChiffre1: Oppenheimer a été nominé 13 fois au Oscar en 2023 pour :
+laureat: ["Meilleur Film","Meileurs acteur","Meilleurs réalisateur","Meilleure musique de film","Meilleur acteur secondaire","Meilleur photographie","Meilleur montage","Meilleure actrice secondaire","Meilleur scénario adapté","Meilleure création de costumes","Meilleurs décors","Meilleurs maquillages et coiffures","Meilleur son"]
+chiffre2: 975,8 millions de dollars
+histChiffre2: |
+  C'est le nombre de dollards qu'à généré Oppenheimer au total. Plus précisement : Il à engrangé  environ 330 millions de dollars au Etats-Unies et au Canada et environ 645,7 millions de dollars dans le reste du monde. Il est le film biographique et le film sur la guerre le plus rentable de l'histoire, et est 60ᵉ parmi les films les plus rentables de tous les temps au box-office mondial.
+
+#Casting
+titreCasting: Casting d'Oppenheimer
+casting: #liste avec "role" puis "nom"
+  - role: J. Robert Oppenheimer
+    nom: Cillian Murphy
+    lien: https://fr.wikipedia.org/wiki/Cillian_Murphy
+  - role: Kitty Oppenheimer
+    nom: Emily Blunt
+    lien: https://fr.wikipedia.org/wiki/Emily_Blunt
+  - role: Leslie Groves
+    nom: Matt Damon
+    lien: https://fr.wikipedia.org/wiki/Matt_Damon
+  - role: Lewis Strauss
+    nom: Robert Downey Jr.
+    lien: https://fr.wikipedia.org/wiki/Robert_Downey_Jr.
+  - role: Jean Tatlock
+    nom: Florence Pugh
+    lien: https://fr.wikipedia.org/wiki/Florence_Pugh
+  - role: David Hill
+    nom: Rami Malek
+    lien: https://fr.wikipedia.org/wiki/Rami_Malek
+  - role: Niels Bohr
+    nom: Kenneth Branagh
+    lien: https://fr.wikipedia.org/wiki/Kenneth_Branagh
+  - role: Ernest Lawrence
+    nom: Josh Hartnett
+    lien: https://fr.wikipedia.org/wiki/Josh_Hartnett
+  - role: L'assistant de Strauss
+    nom: Alden Ehrenreich
+    lien: https://fr.wikipedia.org/wiki/Alden_Ehrenreich
+  - role: Edward Teller
+    nom: Benny Safdie
+    lien: https://en.wikipedia.org/wiki/Benny_Safdie
+
+#Source
+titreSource: Les Sources utilisés
+source: ["Wikipédia","IMDb", "Box Office Mojo", "Allociné"]
+
+#Avis
+titreAvis: Mon avis sur Oppenheimer
+pourquoi: |
+  J'ai pris ce film car il m'a énormément marqué de par la direction artistique, la tension émise par le film ainsi que la bande-original qui est, encore aujourd'hui, une des 2 bandes-sons que j'utilise pour travailler efficacement. Il m'a marquer aussi par le fait que j'ai dû le regarder 3 fois pour différente raisons et avec différentes personnes donc c'est devenu l'un des seul film dont j'ai pu avoir le temps de décortiquer pour pouvoir repondre à la question que je pose constament lorsque je regarde un film : "Comment le réalisateur a-t-il fait pour me faire ressentir cette émotion à ce moment précis ?"
+pointFort: La bande original du film, le scénario, la structure du film
+pointFaible: La longueur du film, son rythme parfois long
+coeur: La bande-son et la scéne du test Trinity
+noteHistoire: 4 #/5
+noteCasting: 4 #/5
+noteMusique: 5 #/5
+noteEmotion: 5 #/5
+total: 18 #/20
