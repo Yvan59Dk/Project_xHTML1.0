@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="$lang$" xml:lang="$lang$">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+<title>$pagetitle$</title>
+$for(css)$
+<link rel="stylesheet" href="$css$" />
+$endfor$
+</head>
+<body>
+    <!-- Le titre du site -->
+    <div id="titre">$titre$</div>
+
+    <!-- Le coeur du site -->
+    <div id="body">
+
+        <!-- Menu pour naviguer entre les pages et titres -->
+        <div id="menu">
+        $ sousTemplateMenu() $
+        </div>
+
+        <!-- Le Contenu de la page -->
+        <div id="contenu">
+        <!-- PRINCIPAL -->
+            $if(titrePrincipal)$
+            $ sousTemplatePrincipal() $
+            $endif$
+        
+        <!-- HISTOIRE -->
+            $if(titreHistoire)$
+            $ sousTemplateHistoire() $
+            $endif$
+        
+        <!-- CHIFFRE -->
+            $if(titreChiffre)$
+            $ sousTemplateChiffre() $
+            $endif$
+
+        <!-- CASTING -->
+            $if(titreCasting)$
+            $ sousTemplateCasting() $
+            $endif$
+
+        <!-- AVIS -->
+            $if(titreAvis)$
+            $ sousTemplateAvis() $
+            $endif$
+
+        <!-- SOURCE -->
+            $if(titreSource)$
+            $ sousTemplateSource() $
+            $endif$
+        </div>
+    </div>
+    <div id="auteurs">AUTEURS</div>
+
+</body>
+</html>

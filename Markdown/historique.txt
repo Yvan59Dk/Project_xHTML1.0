@@ -1,1 +1,7 @@
 Historique de commande pandoc utilisé :
+pandoc markdown.md -o index.html --template=monTemplate.html --metadata-file=variablePrincipal.yaml  
+pandoc markdown.md -o histoire.html --template=monTemplate.html --metadata-file=variableHistoire.yaml
+pandoc markdown.md -o chiffre.html --template=monTemplate.html --metadata-file=variableChiffre.yaml
+pandoc markdown.md -o casting.html --template=monTemplate.html --metadata-file=variableCasting.yaml
+pandoc markdown.md -o avis.html --template=monTemplate.html --metadata-file=variableAvis.yaml  
+pandoc markdown.md -o source.html --template=monTemplate.html --metadata-file=variableSource.yaml

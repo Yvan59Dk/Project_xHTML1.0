@@ -1,5 +1,6 @@
 titre: Un site sur Oppenheimer
 css: "../css/struct.css"
+listMenu: [Accueil,Histoire,Quelque chiffre,Casting,Avis,Source]
 
 #Casting
 titreCasting: Casting d'Oppenheimer
