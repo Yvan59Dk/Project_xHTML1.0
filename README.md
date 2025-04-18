@@ -73,7 +73,7 @@ une seule image :
 2 ou plus :
 2 points
 ***
-**HTML** : images et liens avec chemins relatifs	
+**HTML** : images et liens avec chemins relatifs =>
 non
 0 points |
 parfois :
@@ -81,13 +81,13 @@ parfois :
 Systématiquement :
 3 points
 ***
-**HTML** : liens internes vers chaque section	
+**HTML** : liens internes vers chaque section =>
 non :
 0 points |
 oui :
 1 points
 ***
-**HTML** : présence d'un tableau	
+**HTML** : présence d'un tableau =>
 non :
 0 points |
 oui mais basique :
@@ -95,7 +95,7 @@ oui mais basique :
 oui avec fusion, th, caption, ... :
 2 points
 ***
-**HTML** : présence de plusieurs listes	
+**HTML** : présence de plusieurs listes	=>
 aucune :
 0 points |
 une seule liste :
@@ -103,7 +103,7 @@ une seule liste :
 2 ou plus :
 2 points
 ***
-**CSS** : fichier(s) valide(s)	
+**CSS** : fichier(s) valide(s) =>
 Pas suffisamment :
 0 points |
 quasi totalement :
@@ -111,7 +111,7 @@ quasi totalement :
 totalement :
 5 points
 ***
-**CSS** : usage de sélecteur de type, de sélecteurs d'identifiants, de sélecteurs de classe, de sélecteurs contextuels	
+**CSS** : usage de sélecteur de type, de sélecteurs d'identifiants, de sélecteurs de classe, de sélecteurs contextuels =>
 Rien :
 0 points |
 1/4 :
@@ -123,7 +123,7 @@ Rien :
 4/4 :
 8 points
 ***
-**CSS** : usages de propriétés de texte et de police	
+**CSS** : usages de propriétés de texte et de police =>
 non :
 0 points |
 un peu :
@@ -133,7 +133,7 @@ oui de façon variée :
 aucun problème :
 2.5 points
 ***
-**CSS** : usages de propriétés de boite	
+**CSS** : usages de propriétés de boite	=>
 non :
 0 points |
 service minimum :
@@ -143,7 +143,7 @@ oui de façon variée :
 aucun problème :
 2.5 points
 ***
-**CSS** : usages de propriétés de liste	
+**CSS** : usages de propriétés de liste	=>
 non :
 0 points |
 service minimum :
@@ -151,7 +151,7 @@ service minimum :
 oui de façon variée :
 2 points
 ***
-**CSS** : usages de propriétés de tableau	
+**CSS** : usages de propriétés de tableau =>
 non :
 0 points |
 service minimum :
@@ -159,7 +159,7 @@ service minimum :
 oui de façon variée :
 2 points
 ***
-**CSS** : le résultat est joli et/ou dépasse les notions de base vues en cours et TP	
+**CSS** : le résultat est joli et/ou dépasse les notions de base vues en cours et TP =>
 non :
 0 points |
 basique :
@@ -169,7 +169,7 @@ joli :
 Au delà du programme :
 5 points
 ***
-**MD** : sources de pages markdown fournies	
+**MD** : sources de pages markdown fournies	=>
 non :
 0 points |
 pas toutes ? :
@@ -177,7 +177,7 @@ pas toutes ? :
 Oui :
 2 points
 ***
-**MD** : niveau d'utilisation de markdown	
+**MD** : niveau d'utilisation de markdown =>
 absent :
 0 points |
 basique :
@@ -187,7 +187,7 @@ avancé (images, liens, tableau, ...) :
 Expert (attributs de classe, division, ....) :
 3 points
 ***
-**Pandoc** : commandes de génération des doc HTML	
+**Pandoc** : commandes de génération des doc HTML =>
 absent :
 0 points |
 bug :
@@ -197,7 +197,7 @@ incomplet :
 complet :
 3 points
 ***
-**Pandoc** : template	
+**Pandoc** : template =>
 absent :
 0 points |
 basique :
@@ -205,7 +205,7 @@ basique :
 complet :
 3 points
 ***
-**Pandoc** : sous-template	
+**Pandoc** : sous-template =>
 absent :
 0 points |
 un sous-template :
@@ -213,7 +213,7 @@ un sous-template :
 Deux ou plus ! :
 3 points
 ***
-**Pandoc** : metadata dans fichier yml	
+**Pandoc** : metadata dans fichier yml =>
 non :
 0 points |
 oui :
