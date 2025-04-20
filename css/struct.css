@@ -3,22 +3,26 @@ html {
 }
 
 body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     height : 100%;
     margin : 0;
 }
 
 #titre {
-    background: #f9dfa9; /* aqua; */
-    height : 10%;
+    padding: 2%;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: capitalize;
+    text-align: center;
+    background: #ffcc14; /* aqua; */
 }
 
 #body {
-    background-color: #50bfe9; /* aquamarine; */ 
+    background-color: #ab4200; /* aquamarine; */ 
     height: 80%;
 }
 
 #menu {
-    background-color: #50bfe9; /* aquamarine; */ 
     float : left;
     width : 200px;
 }
