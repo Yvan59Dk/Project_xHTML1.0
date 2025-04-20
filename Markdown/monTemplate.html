@@ -22,35 +22,7 @@ $endfor$
 
         <!-- Le Contenu de la page -->
         <div id="contenu">
-        <!-- PRINCIPAL -->
-            $if(titrePrincipal)$
-            $ sousTemplatePrincipal() $
-            $endif$
-        
-        <!-- HISTOIRE -->
-            $if(titreHistoire)$
-            $ sousTemplateHistoire() $
-            $endif$
-        
-        <!-- CHIFFRE -->
-            $if(titreChiffre)$
-            $ sousTemplateChiffre() $
-            $endif$
-
-        <!-- CASTING -->
-            $if(titreCasting)$
-            $ sousTemplateCasting() $
-            $endif$
-
-        <!-- AVIS -->
-            $if(titreAvis)$
-            $ sousTemplateAvis() $
-            $endif$
-
-        <!-- SOURCE -->
-            $if(titreSource)$
-            $ sousTemplateSource() $
-            $endif$
+        $body$
         </div>
     </div>
     <div id="auteurs">AUTEURS</div>

@@ -1,0 +1,18 @@
+# Mon avis sur Oppenheimer
+
+## Pourquoi ai-je pris Oppenheimer ?
+J'ai pris ce film car il m'a énormément marqué de par la direction artistique, la tension émise par le film ainsi que la bande-original qui est, encore aujourd'hui, une des 2 bandes-sons que j'utilise pour travailler efficacement. Il m'a marquer aussi par le fait que j'ai dû le regarder 3 fois pour différente raisons et avec différentes personnes donc c'est devenu l'un des seul film dont j'ai pu avoir le temps de décortiquer pour pouvoir repondre à la question que je pose constament lorsque je regarde un film : "Comment le réalisateur a-t-il fait pour me faire ressentir cette émotion à ce moment précis ?"
+
+### Point fort
+La bande original du film, le scénario, la structure du film
+
+### Point faible
+La longueur du film, son rythme parfois long
+
+### Coup de coeur
+La bande-son et la scéne du test Trinity
+
+| Catégorie      |     Histoire    |  Casting        | Musique         | Emotion         | Total           |
+| :------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| **Note**       | 4               | 4               | 5               | 5               | 18              |
+
