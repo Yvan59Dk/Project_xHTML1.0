@@ -3,6 +3,7 @@
 ## Nominé 13 fois au Oscar.
 
 Oppenheimer a été nominé 13 fois au Oscar en 2023 pour :
+
 - Meilleur Film
 - Meileurs acteur
 - Meilleurs réalisateur
