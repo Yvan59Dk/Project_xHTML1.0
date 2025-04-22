@@ -1,6 +1,22 @@
 <!-- Sous template pour faire le menu-->
 <ul>
 $for(listMenu)$
-    <li><a href="#">$listMenu$</a></li>
+    <li><a href="$listMenu.lien$">$listMenu.cible$</a>
+    $if(listMenu.sous_list)$
+    <ul>
+    $for(listMenu.sous_list)$
+        <li><a href="$listMenu.sous_list.lien$">$listMenu.sous_list.cible$</a>
+        $if(listMenu.sous_list.sous_sous_list)$
+        <ul>
+        $for(listMenu.sous_list.sous_sous_list)$   
+            <li><a href="$listMenu.sous_list.sous_sous_list.lien$">$listMenu.sous_list.sous_sous_list.cible$</a></li>
+        $endfor$
+        </ul>
+        $endif$
+        </li>
+    $endfor$
+    </ul>
+    $endif$
+    </li>
 $endfor$
 </ul>
