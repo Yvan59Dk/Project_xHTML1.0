@@ -5,3 +5,4 @@ pandoc casting.md -o casting.html --template=template/monTemplate.html --metadat
 pandoc chiffre.md -o chiffre.html --template=template/monTemplate.html --metadata-file=template/variable.yaml
 pandoc avis.md -o avis.html --template=template/monTemplate.html --metadata-file=template/variable.yaml
 pandoc source.md -o source.html --template=template/monTemplate.html --metadata-file=template/variable.yaml
+pandoc personnage.md -o personnage.html --template=template/monTemplate.html --metadata-file=template/variable.yaml

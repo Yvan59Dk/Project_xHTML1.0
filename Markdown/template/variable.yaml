@@ -21,6 +21,13 @@ listMenu:
             lien: "#p4"
           - cible: Partie 5
             lien: "#p5"
+  - cible: Personnage principaux
+    lien: "personnage.html"
+    sous_list:
+      - cible: Oppenheimer
+        lien: "#oppenheimer"
+      - cible: Lewis Strauss
+        lien: "#strauss"
   - cible: Quelques chiffres
     lien: "chiffre.html"
     sous_list:
