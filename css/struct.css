@@ -4,7 +4,6 @@ html {
 
 body {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    height : 100%;
     margin : 0;
 }
 
@@ -18,18 +17,23 @@ body {
 }
 
 #body {
-    background-color: #ab4200; /* aquamarine; */ 
-    height: 80%;
+    background-color: #6d2a00; /* aquamarine; */ 
 }
 
 #menu {
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+    background-color:#ab4200;
+    border-style: double;
     float : left;
     width : 200px;
 }
 
 #contenu {
+    font-size: large;
     background: #d18d72; /* aliceblue; */
     margin-left: 200px;
+    padding: 5%;
     height: 100%;
     overflow: scroll;
 }

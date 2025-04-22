@@ -4,19 +4,19 @@
 
 Oppenheimer a été nominé 13 fois au Oscar en 2023 pour :
 
-- Meilleur Film
-- Meileurs acteur
-- Meilleurs réalisateur
-- Meilleure musique de film
-- Meilleur acteur secondaire
-- Meilleur photographie
-- Meilleur montage
-- Meilleure actrice secondaire
-- Meilleur scénario adapté
-- Meilleure création de costumes
-- Meilleurs décors
-- Meilleurs maquillages et coiffures
-- Meilleur son
+- **Meilleur Film**
+- **Meileurs Acteur**
+- Meilleurs Réalisateur
+- Meilleure Musique de Film
+- Meilleur Acteur Secondaire
+- Meilleur Photographie
+- Meilleur Montage
+- Meilleure Actrice Secondaire
+- Meilleur Scénario Adapté
+- Meilleure Création de Costumes
+- Meilleurs Décors
+- Meilleurs Maquillages et Coiffures
+- Meilleur Son
 
 ## 975,8 millions de dollars
 

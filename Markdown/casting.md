@@ -1,5 +1,9 @@
 # Casting d'Oppenheimer
 
+## Acteurs Principaux
+
+Voici les principaux acteurs présents dans le casting de Oppenheimer :
+
 - J. Robert Oppenheimer : [Cillian Murphy](https://fr.wikipedia.org/wiki/Cillian_Murphy "Lien wikipédia")
 - Kitty Oppenheimer : [Emily Blunt](https://fr.wikipedia.org/wiki/Emily_Blunt "Lien wikipédia")
 - Leslie Groves : [Matt Damon](https://fr.wikipedia.org/wiki/Matt_Damon "Lien wikipédia")
