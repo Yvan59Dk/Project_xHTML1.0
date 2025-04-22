@@ -15,8 +15,9 @@ J'ai pris ce film car il m'a énormément marqué de par la direction artistique
 
 ### Coup de coeur
 
-- **La bande-son**
-- **La scéne du test Trinity**
+- **La bande-son** : La bande-son du film, faite par [Ludwig Göransson](https://fr.wikipedia.org/wiki/Ludwig_Göransson "Lien wikipédia") est totalement faite pour être écouté durant le film et aucunement en dehors. Chaque musique se marie parfaitement à la situation tout en gardant une tension presque insoutenable, presque marque identitaire du film.
+La bande-son marie mélancolie, espoir, drama, le tout en faisant rappelé à chaque note au spectateur l'engin de destruction massive crée par cette homme.
+- **La scéne du test Trinity** : Cette scéne est l'apogée de la tension du film. La bombe d'essai est lancé, les personnges ne savent pas à quel point elle va être destructrice. Mais les spéctateurs savent les dégâts qu'engendre cette bombe donc pour palier à ça, les réalisateurs nous ont fait entendre quelque chose pire que le cris d'angoisse du monde : le silence. Un silence qui à paru éternel, nous faisant attendre le résultat autant que les personnages. Un silence qui est contraire à tout ce qu'on a pu voir du film oû le son/ la musique est onmiprésente. Un silence qui est mot. Puis l'onde de choc arrive, brisant le silence et nos tympans par la même occasion. Pour moi, cette scéne est un chef-d'oeuvre de réalisation rien pour le *"comment elle est faite ?"*.
 
 | Catégorie      |     Histoire    |  Casting        | Musique         | Emotion         | Total           |
 | :------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
