@@ -53,4 +53,6 @@ listMenu:
   - cible: Source
     lien: "source.html"
 
-auteurs: Gabriel Znatchko-Yavorsky
+auteurs: | 
+  Gabriel Znatchko-Yavorsky
+  L1 MIPSI
