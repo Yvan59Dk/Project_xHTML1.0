@@ -1,44 +1,53 @@
-html {
-    height:100%;
-}
+
 
 body {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin : 0;
+    background-image: url("../images/background.png"); /* aquamarine; */ 
+    background-size: auto;
+    background-attachment: fixed;
+    background-position: center;
 }
 
 #titre {
     padding: 2%;
+    border-bottom-style: double;
     font-size: x-large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-transform: capitalize;
     text-align: center;
-    background: #ffcc14; /* aqua; */
-}
-
-#body {
-    background-color: #6d2a00; /* aquamarine; */ 
+    background: #db5000; /* aqua; */
 }
 
 #menu {
-    border-top-right-radius: 5%;
     border-bottom-right-radius: 5%;
-    background-color:#ab4200;
-    border-style: double;
+    background-color:#c27545;
+    border-left-style: double;
+    border-right-style: double;
+    border-bottom-style: double;
     float : left;
-    width : 200px;
+    width : 220px;
+}
+
+#menu h3 {
+    border-bottom-style: double;
+    padding: 5%;
+    margin-top: auto;
+    text-align: center;
+    background-color: #c9b2a9;
 }
 
 #contenu {
     font-size: large;
     background: #d18d72; /* aliceblue; */
-    margin-left: 200px;
+    margin-left: 220px;
     padding: 5%;
     height: 100%;
-    overflow: scroll;
+
 }
 
 #auteurs {
+    color: aliceblue;
     background: #251d1b; /* beige; */
-    height : 10%
+    height : 10%;
 }
