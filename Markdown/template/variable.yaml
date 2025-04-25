@@ -7,49 +7,49 @@ listMenu:
     lien: "histoire.html"
     sous_list:
       - cible: Synopsis
-        lien: "#synopsis"
+        lien: "histoire.html#synopsis"
       - cible: Histoire
-        lien: "#histoire"
+        lien: "histoire.html#histoire"
         sous_sous_list :
           - cible: Partie 1
-            lien: "#p1"
+            lien: "histoire.html#p1"
           - cible: Partie 2
-            lien: "#p2"
+            lien: "histoire.html#p2"
           - cible: Partie 3
-            lien: "#p3"
+            lien: "histoire.html#p3"
           - cible: Partie 4
-            lien: "#p4"
+            lien: "histoire.html#p4"
           - cible: Partie 5
-            lien: "#p5"
+            lien: "histoire.html#p5"
   - cible: Personnage principaux
     lien: "personnage.html"
     sous_list:
       - cible: Oppenheimer
-        lien: "#oppenheimer"
+        lien: "personnage.html#oppenheimer"
       - cible: Lewis Strauss
-        lien: "#strauss"
+        lien: "personnage.html#strauss"
   - cible: Quelques chiffres
     lien: "chiffre.html"
     sous_list:
       - cible: Oscar
-        lien: "#oscar"
+        lien: "chiffre.html#oscar"
       - cible: Revenu
-        lien: "#revenu"
+        lien: "chiffre.html#revenu"
   - cible: Casting
     lien: "casting.html"
   - cible: Avis
     lien: "avis.html"
     sous_list:
       - cible: Pourquoi ?
-        lien: "#pourquoi"
+        lien: "avis.html#pourquoi"
       - cible: Point Fort
-        lien: "#point_fort"
+        lien: "avis.html#point_fort"
       - cible: Point Faible
-        lien: "#point_faible"
+        lien: "avis.html#point_faible"
       - cible: Coup de Coeur
-        lien: "#coup_coeur"
+        lien: "avis.html#coup_coeur"
       - cible: Note
-        lien: "#table"
+        lien: "avis.html#table"
   - cible: Source
     lien: "source.html"
 
