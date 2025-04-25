@@ -20,7 +20,7 @@ listMenu:
           - cible: Partie 4
             lien: "histoire.html#p4"
           - cible: Partie 5
-            lien: "histoire.html#p5"
+            lien: "histoire.html#p5" 
   - cible: Personnage principaux
     lien: "personnage.html"
     sous_list:
