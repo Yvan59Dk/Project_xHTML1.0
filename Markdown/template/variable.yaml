@@ -1,4 +1,5 @@
 titre: Un site sur Oppenheimer
+lang: EN
 css: "../css/struct.css"
 listMenu: 
   - cible: Accueil
