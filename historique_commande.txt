@@ -2,10 +2,10 @@ Avant de créer les pages html avec les commandes pandoc.
 - Dirigez vous dans le dossier /Markdown
 
 Historique de commande pandoc utilisé :
->>> pandoc index.md -o index.html --template=template/monTemplate.html --metadata-file=template/variable.yaml
->>> pandoc histoire.md -o histoire.html --template=template/monTemplate.html --metadata-file=template/variable.yaml
->>> pandoc casting.md -o casting.html --template=template/monTemplate.html --metadata-file=template/variable.yaml
->>> pandoc chiffre.md -o chiffre.html --template=template/monTemplate.html --metadata-file=template/variable.yaml
->>> pandoc avis.md -o avis.html --template=template/monTemplate.html --metadata-file=template/variable.yaml
->>> pandoc source.md -o source.html --template=template/monTemplate.html --metadata-file=template/variable.yaml
->>> pandoc personnage.md -o personnage.html --template=template/monTemplate.html --metadata-file=template/variable.yaml
+>>> pandoc index.md -o index.html --template=template/template.html --metadata-file=template/variable.yaml
+>>> pandoc histoire.md -o histoire.html --template=template/template.html --metadata-file=template/variable.yaml
+>>> pandoc casting.md -o casting.html --template=template/template.html --metadata-file=template/variable.yaml
+>>> pandoc chiffre.md -o chiffre.html --template=template/template.html --metadata-file=template/variable.yaml
+>>> pandoc avis.md -o avis.html --template=template/template.html --metadata-file=template/variable.yaml
+>>> pandoc source.md -o source.html --template=template/template.html --metadata-file=template/variable.yaml
+>>> pandoc personnage.md -o personnage.html --template=template/template.html --metadata-file=template/variable.yaml
