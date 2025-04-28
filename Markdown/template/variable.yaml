@@ -6,12 +6,12 @@ listMenu:
     lien: "index.html"
   - cible: Histoire
     lien: "histoire.html"
-    sous_list:
+    list:
       - cible: Synopsis
         lien: "histoire.html#synopsis"
       - cible: Histoire
         lien: "histoire.html#histoire"
-        sous_sous_list :
+        list :
           - cible: Partie 1
             lien: "histoire.html#p1"
           - cible: Partie 2
@@ -24,14 +24,14 @@ listMenu:
             lien: "histoire.html#p5" 
   - cible: Personnage principaux
     lien: "personnage.html"
-    sous_list:
+    list:
       - cible: Oppenheimer
         lien: "personnage.html#oppenheimer"
       - cible: Lewis Strauss
         lien: "personnage.html#strauss"
   - cible: Quelques chiffres
     lien: "chiffre.html"
-    sous_list:
+    list:
       - cible: Oscar
         lien: "chiffre.html#oscar"
       - cible: Revenu
@@ -40,7 +40,7 @@ listMenu:
     lien: "casting.html"
   - cible: Avis
     lien: "avis.html"
-    sous_list:
+    list:
       - cible: Pourquoi ?
         lien: "avis.html#pourquoi"
       - cible: Point Fort
@@ -50,7 +50,7 @@ listMenu:
       - cible: Coup de Coeur
         lien: "avis.html#coup_coeur"
       - cible: Note
-        lien: "avis.html#table"
+        lien: "avis.html#title_table"
   - cible: Source
     lien: "source.html"
 

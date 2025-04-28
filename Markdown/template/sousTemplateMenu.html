@@ -3,14 +3,14 @@
 <ul>
 $for(listMenu)$
     <li><a href="$listMenu.lien$">$listMenu.cible$</a>
-    $if(listMenu.sous_list)$
+    $if(listMenu.list)$
     <ul>
-    $for(listMenu.sous_list)$
-        <li><a href="$listMenu.sous_list.lien$">$listMenu.sous_list.cible$</a>
-        $if(listMenu.sous_list.sous_sous_list)$
+    $for(listMenu.list)$
+        <li><a href="$listMenu.list.lien$">$listMenu.list.cible$</a>
+        $if(listMenu.list.list)$
         <ul>
-        $for(listMenu.sous_list.sous_sous_list)$   
-            <li><a href="$listMenu.sous_list.sous_sous_list.lien$">$listMenu.sous_list.sous_sous_list.cible$</a></li>
+        $for(listMenu.list.list)$   
+            <li><a href="$listMenu.list.list.lien$">$listMenu.list.list.cible$</a></li>
         $endfor$
         </ul>
         $endif$
