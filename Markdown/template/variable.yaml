@@ -1,6 +1,9 @@
-titre: Un site sur Oppenheimer
-lang: EN
+# Les infos généraux
+titre: Un Site sur Oppenheimer
+lang: FR
 css: "../css/struct.css"
+
+# Le menu sous forme de liste de liste.
 listMenu: 
   - cible: Accueil
     lien: "index.html"
@@ -54,6 +57,7 @@ listMenu:
   - cible: Source
     lien: "source.html"
 
+# L'ID 'auteurs'
 auteurs: | 
   Gabriel Znatchko-Yavorsky
   L1 MIPSI

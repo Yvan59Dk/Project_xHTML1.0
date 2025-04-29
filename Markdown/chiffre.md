@@ -1,4 +1,4 @@
-# Quelques chiffres.
+# Quelques Chiffres.
 
 ## Nominé 13 fois au Oscar.
 

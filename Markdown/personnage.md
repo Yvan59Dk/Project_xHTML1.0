@@ -2,6 +2,8 @@
 
 ## Oppenheimer
 
+***
+
 ![Oppenheimer](../images/oppenheimer.jpg "Oppenheimer")
 
 ### Une personnalité spécial
@@ -88,3 +90,4 @@ Lewis Strauss dans Oppenheimer, c’est :
 - Un personnage politique, mais presque shakespearien, comme un Iago moderne dans une tragédie de savants.
 
 Il incarne une époque où les guerres ne se gagnent plus uniquement avec des bombes, mais avec des auditions à huis clos et des dossiers classés secret défense.
+***

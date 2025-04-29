@@ -10,13 +10,12 @@ body {
 }
 
 #titre {
-    padding: 2%;
+    padding: 1%;
     border-bottom-style: double;
     font-size: x-large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-transform: capitalize;
     text-align: center;
-    background: #db5000; /* aqua; */
+    background: #c94a00; /* aqua; */
 }
 
 #menu {
@@ -41,20 +40,54 @@ body {
     font-size: large;
     background: #d18d72; /* aliceblue; */
     margin-left: 220px;
-    padding: 5%;
-    height: 100%;
-
+    padding: 2%;
 }
 
 #auteurs {
     color: aliceblue;
     background: #251d1b; /* beige; */
     text-align: center;
-    height : 10%;
 }
 
 #title_table{
     text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: #c9b2a9;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+    text-align: center;
+    background-color: #92695e;
+}
+
+h2 {
+    text-align: center;
+    background-color: #92695e;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-top-style: dashed;
+    border-top-left-radius: 35%;
+    border-top-right-radius: 35%;   
+    margin-right: 25%;
+    margin-left: 25%;
+}
+
+h3{
+    padding-left: 1em;
+}
+
+img {
+    margin: auto;
+    border-style: solid;
+    border-width: 0.2em;
 }
 
 table{
