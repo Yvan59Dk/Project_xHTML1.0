@@ -1,12 +1,15 @@
 # Les infos généraux
 titre: Un Site sur Oppenheimer
 lang: FR
-css: "../css/struct.css"
+css: "../css/znatchko-Yavorsky_Gabriel.css"
 
 # Le menu sous forme de liste de liste.
 listMenu: 
+  # Variable pour la ligne de menu "Accueil"
   - cible: Accueil
     lien: "index.html"
+
+  # Variable pour le bloc de menu "Histoire"
   - cible: Histoire
     lien: "histoire.html"
     list:
@@ -25,13 +28,17 @@ listMenu:
             lien: "histoire.html#p4"
           - cible: Partie 5
             lien: "histoire.html#p5" 
-  - cible: Personnage principaux
+
+  # Variable pour le bloc de menu "Personnage Principaux"
+  - cible: Personnage Principaux
     lien: "personnage.html"
     list:
       - cible: Oppenheimer
         lien: "personnage.html#oppenheimer"
       - cible: Lewis Strauss
         lien: "personnage.html#strauss"
+
+  # Variable pour le bloc de menu "Quelques Chiffres"
   - cible: Quelques chiffres
     lien: "chiffre.html"
     list:
@@ -39,8 +46,12 @@ listMenu:
         lien: "chiffre.html#oscar"
       - cible: Revenu
         lien: "chiffre.html#revenu"
+
+  # Variable pour la ligne de menu "Casting"
   - cible: Casting
     lien: "casting.html"
+
+  # Variable pour le bloc de menu "Avis"
   - cible: Avis
     lien: "avis.html"
     list:
@@ -53,7 +64,9 @@ listMenu:
       - cible: Coup de Coeur
         lien: "avis.html#coup_coeur"
       - cible: Note
-        lien: "avis.html#title_table"
+        lien: "avis.html#note"
+
+  # Variable pour la ligne de menu "Source"
   - cible: Source
     lien: "source.html"
 

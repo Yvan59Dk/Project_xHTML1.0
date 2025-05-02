@@ -18,6 +18,6 @@ Oppenheimer a été nominé 13 fois au Oscar en 2023 pour :
 - Meilleurs Maquillages et Coiffures
 - Meilleur Son
 
-## 975,8 millions de dollars
+## 975,8 Millions de Dollars
 
 C'est le nombre de dollards qu'à généré Oppenheimer au total. Plus précisement : Il à engrangé  environ 330 millions de dollars au Etats-Unies et au Canada et environ 645,7 millions de dollars dans le reste du monde. Il est le film biographique et le film sur la guerre le plus rentable de l'histoire, et est 60ᵉ parmi les films les plus rentables de tous les temps au box-office mondial.
