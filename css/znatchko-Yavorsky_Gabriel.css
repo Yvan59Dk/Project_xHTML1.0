@@ -10,10 +10,13 @@ body {
     background-position: center;                       /* L'image est mis au centre de la page */
 }
 
-.center { /* Classe servant à mettre un élément réticent au milieu de la page ( exemple : image ) */
+.center-image { /* Classe servant à mettre un élément réticent au milieu de la page ( exemple : image ) */
     display: block;                                    /* Bloque l'élement */
     margin-left: auto;                                 /* Met l'élement au milieu de son bloc peu importe sa taille */
     margin-right: auto;
+}
+.center{
+    text-align: center;
 }
 
 /* ############################## */
@@ -90,6 +93,16 @@ body {
 
 #contenu h3{ /* Paramétre influant sur les h3 de #contenu */
     margin-left: 1em;                                   /* Met une marge pour crée un alinéa */
+}
+
+.oppenheimer {
+    background-color: #dfd111;
+}
+
+.nothing {
+    color: aliceblue;
+    background-color: #251d1b;
+    text-align: center;
 }
 
 #contenu img { /* Paramétre influant sur les images de #contenu */
