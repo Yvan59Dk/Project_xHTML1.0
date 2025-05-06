@@ -1,3 +1,12 @@
+:root{
+    --principal-color: #d18d72;
+    --secondary-color: #c27545;
+    --tertiaire-color: #c9b2a9;
+    --title-color: #c94a00;
+    --h-color: #92695e;
+    --black-color: #251d1b;
+}
+
 /* ############################## */
 /* ######     Géneral      ###### */
 /* ############################## */
@@ -29,7 +38,7 @@ body {
     font-size: xx-large;                               /* Augmente la taille de la police pour que le #titre soit plus gros que l'ensemble. */ 
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; /* Police d'écriture du #titre */
     text-align: center;                                /* Aligne le texte du #titre au centre */
-    background: #c94a00;                             /* Met la couleur du bloc #titre en orange */                
+    background: var(--title-color);                             /* Met la couleur du bloc #titre en orange */                
 }
 
 /* ############################## */
@@ -48,7 +57,7 @@ body {
     float : left;                                       /* Place le bloc #menu à gauche du site */
     width : 220px;                                      /* Définis la taille du bloc #menu à 220px */
     border-bottom-right-radius: 5%;                     /* Arrondis le coin bas droite pour fluidifier le #menu */ 
-    background-color:#c27545;                         /* Met la couleur du bloc #menu en orange clair */
+    background-color: var(--secondary-color);           /* Met la couleur du bloc #menu en orange clair */
     border-left-style: double;                          /* Définit le style de bordure partout sauf du côté gauche car coller à la limite du site. */
     border-right-style: double;
     border-bottom-style: double;
@@ -59,7 +68,7 @@ body {
     padding: 5%;                                        /* Augmentation du padding pour laisser de l'espace au h3 */
     margin-top: auto;                                   /* Gére automatiquement l'espace supérieur du h3 */
     text-align: center;                                 /* Aligne le texte au centre */
-    background-color: #c9b2a9;                        /* Définit la couleur du bloc en belge */
+    background-color: var(--tertiaire-color);           /* Définit la couleur du bloc en belge */
 }
 
 /* ##################### */
@@ -72,19 +81,19 @@ body {
 
 .nothing {  /* Classe qui s'occupe de surligné des cases d'un tableau ( celle vide ) */
     color: aliceblue;                                 /* Change la couleur du texte en "alicebleu" */
-    background-color: #251d1b;                        /* Change le fond en noir ( pas total ) */
+    background-color: var(--black-color);               /* Change le fond en noir ( pas total ) */
     text-align: center;                                 /* Aligne le texte au centre */
 }
 
 #contenu { /* Paramétre influant sur le bloc #contenu */
     font-size: large;                                   /* Augmentation de la taille d'écriture */                         
-    background: #d18d72;                              /* Définit la couleur du bloc en blege rosé */
+    background: var(--principal-color);                 /* Définit la couleur du bloc en blege rosé */
     margin-left: 220px;                                 /* Pousse le bloc vers la gauche de 220 px, taille du #menu */
     padding: 2%;                                        /* Augmentation du padding pour laisser de l'espace au contenu */
 }
 
 #contenu h1 { /* Paramétre influant sur les h1 de #contenu */
-    background-color: #92695e;                        /* Définit la couleur du bloc marron clair */
+    background-color: var(--h-color);                   /* Définit la couleur du bloc marron clair */
     color: #f1ebe8;                                   /* Définit la couleur d'écriture du texte en belge trés clair */
     padding-top: 0.3em;                                 /* Met un espace dans le bloc en haut et en bas pour laisser de l'espace au h1 */
     padding-bottom: 0.3em;
@@ -93,7 +102,7 @@ body {
 
 #contenu h2 { /* Paramétre influant sur les h2 de #contenu */
     text-align: center;                                 /* Aligne le texte au centre du bloc */
-    background-color: #92695e;                        /* Définit la couleur du bloc marron clair */
+    background-color: var(--h-color);                   /* Définit la couleur du bloc marron clair */
     border-style: solid;                                /* Définit le style de la bordure en solid */
     border-top-left-radius: 35%;                        /* Arrondis fortement les angles haut gauche et haut droite pour faire une sorte de style... */
     border-top-right-radius: 35%;   
@@ -120,7 +129,7 @@ body {
     margin: 5%;                                         /* Définit une marge pour mieux voir les td */
 }
 #contenu table th { /* Paramétre influant les th des tableaux de #contenu */
-    background-color: #c27545;                       /* Met la couleur des blocs de th en orange foncé */
+    background-color: var(--secondary-color);           /* Met la couleur des blocs de th en orange foncé */
 }
 
 /* ##################### */
@@ -128,9 +137,9 @@ body {
 /* ##################### */
 
 #auteurs { /* Paramétre influant sur le bloc #auteurs */
-    color: aliceblue;       /* Définit la couleur du bloc en blanc */
-    background: #251d1b;    /* Définit la couleur d'écriture du texte en noir */
-    text-align: center;       /* Met le texte au centre */
+    color: aliceblue;                /* Définit la couleur du bloc en blanc */
+    background: var(--black-color);    /* Définit la couleur d'écriture du texte en noir */
+    text-align: center;                /* Met le texte au centre */
 }
 
 
