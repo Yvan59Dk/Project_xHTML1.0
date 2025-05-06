@@ -2,7 +2,7 @@
 
 ## Nominé 13 fois au Oscar.
 
-Oppenheimer a été nominé de partout dont 13 fois au Oscar avec 7 Prix remporté mais ce n'est pas toute les distinctions qu'à obtenu Oppenheimer :
+Oppenheimer a été nominé de partout dont 13 fois au Oscar avec 7 Prix remporté mais ce n'est pas toute les distinctions qu'à obtenu Oppenheimer, les voici en précision :
 
 |Festival| Résultat | Récompense | Personne lié à la récompense |
 | :------------: | :------------: | :-------------: | :-------------: |
@@ -39,6 +39,8 @@ Oppenheimer a été nominé de partout dont 13 fois au Oscar avec 7 Prix remport
 | Golden Globes 2024 | Lauréat | Meilleur réalisateur | [Christopher Nolan](https://fr.wikipedia.org/wiki/Christopher_Nolan "Lien Wikipédia") |
 | Golden Globes 2024 | Nommé | Meilleur scénario | [Christopher Nolan](https://fr.wikipedia.org/wiki/Christopher_Nolan "Lien Wikipédia") |
 | Golden Globes 2024 | Nommé | Meilleure actrice dans un second rôle | [Emily Blunt](https://www.allocine.fr/personne/fichepersonne_gen_cpersonne=123054.html "Lien Allociné") |
+
+***
 
 ## 975,8 Millions de Dollars
 

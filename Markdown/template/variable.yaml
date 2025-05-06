@@ -38,14 +38,14 @@ listMenu:
       - cible: Lewis Strauss
         lien: "personnage.html#strauss"
 
-  # Variable pour le bloc de menu "Quelques Chiffres"
-  - cible: Quelques chiffres
-    lien: "chiffre.html"
+  # Variable pour le bloc de menu "Quelques Statistiques"
+  - cible: Quelques Statistiques
+    lien: "statistique.html"
     list:
       - cible: Oscar
-        lien: "chiffre.html#oscar"
+        lien: "statistique.html#oscar"
       - cible: Revenu
-        lien: "chiffre.html#revenu"
+        lien: "statistique.html#revenu"
 
   # Variable pour la ligne de menu "Casting"
   - cible: Casting

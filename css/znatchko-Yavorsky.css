@@ -10,13 +10,13 @@ body {
     background-position: center;                       /* L'image est mis au centre de la page */
 }
 
+.center{
+    text-align: center;
+}
 .center-image { /* Classe servant à mettre un élément réticent au milieu de la page ( exemple : image ) */
     display: block;                                    /* Bloque l'élement */
     margin-left: auto;                                 /* Met l'élement au milieu de son bloc peu importe sa taille */
     margin-right: auto;
-}
-.center{
-    text-align: center;
 }
 
 /* ############################## */
@@ -66,6 +66,16 @@ body {
 /* ###### Contenu ###### */
 /* ##################### */
 
+.surligne {
+    background-color: #dfd111;
+}
+
+.nothing {
+    color: aliceblue;
+    background-color: #251d1b;
+    text-align: center;
+}
+
 #contenu { /* Paramétre influant sur le bloc #contenu */
     font-size: large;                                   /* Augmentation de la taille d'écriture */                         
     background: #d18d72;                              /* Définit la couleur du bloc en blege rosé */
@@ -95,22 +105,11 @@ body {
     margin-left: 1em;                                   /* Met une marge pour crée un alinéa */
 }
 
-.oppenheimer {
-    background-color: #dfd111;
-}
-
-.nothing {
-    color: aliceblue;
-    background-color: #251d1b;
-    text-align: center;
-}
-
 #contenu img { /* Paramétre influant sur les images de #contenu */
     margin: auto;                                       /* Centre l'image */
     border-style: solid;                                /* Met un cadre à l'image */
     border-width: 0.2em;                                /* Met la taille du cadre à 0.2em */
 }
-
 #contenu #note{ /* Paramétre influant le bloc #note contenu dans le bloc #contenu */
     text-align: center;                                 /* Aligne le texte au centre */
 }
