@@ -10,8 +10,8 @@ body {
     background-position: center;                       /* L'image est mis au centre de la page */
 }
 
-.center{
-    text-align: center;
+.center{ /* Classe permettant de centrer un contenu bien précis */
+    text-align: center;                                /* Aligne le texte au centre */
 }
 .center-image { /* Classe servant à mettre un élément réticent au milieu de la page ( exemple : image ) */
     display: block;                                    /* Bloque l'élement */
@@ -66,14 +66,14 @@ body {
 /* ###### Contenu ###### */
 /* ##################### */
 
-.surligne {
-    background-color: #dfd111;
+.surligne { /* Classe qui s'occupe de surligné des cases d'un tableau */
+    background-color: #dfd111;                        /* Change le fond en jaune */
 }
 
-.nothing {
-    color: aliceblue;
-    background-color: #251d1b;
-    text-align: center;
+.nothing {  /* Classe qui s'occupe de surligné des cases d'un tableau ( celle vide ) */
+    color: aliceblue;                                 /* Change la couleur du texte en "alicebleu" */
+    background-color: #251d1b;                        /* Change le fond en noir ( pas total ) */
+    text-align: center;                                 /* Aligne le texte au centre */
 }
 
 #contenu { /* Paramétre influant sur le bloc #contenu */
