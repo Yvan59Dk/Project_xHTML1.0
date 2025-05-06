@@ -1,10 +1,10 @@
-:root{
-    --principal-color: #d18d72;
-    --secondary-color: #c27545;
-    --tertiaire-color: #c9b2a9;
-    --title-color: #c94a00;
-    --h-color: #92695e;
-    --black-color: #251d1b;
+:root{ /* Espace de stockage des couleurs dans des variables */
+    --principal-color: #d18d72;                     /* Couleur principal du site : Pour le fond de contenu */
+    --secondary-color: #c27545;                     /* Couleur secondaire du site : Pour le menu ainsi que les éélments mise en évidence */
+    --tertiaire-color: #c9b2a9;                     /* Couleur tertiaire du site : Pour les plus petit éléments */
+    --title-color: #c94a00;                         /* Couleur de background pour le titre du site */
+    --h-color: #92695e;                             /* Couleur de background pour les h1,h2 et h3 du site */
+    --black-color: #251d1b;                         /* Couleur noir mais pas totalement, pour évité d'utilisé un noir trop sombre */
 }
 
 /* ############################## */
