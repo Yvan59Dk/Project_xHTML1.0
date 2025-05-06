@@ -30,7 +30,7 @@ Oppenheimer a été nominé de partout dont 13 fois au Oscar avec 7 Prix remport
 | BAFTA Award | Nommé | Meilleur son | [Richard King](https://en.wikipedia.org/wiki/Richard_King_(sound_designer) "Lien Wikipédia") & [Willie D. Burton](https://en.wikipedia.org/wiki/Willie_D._Burton "Lien Wikipédia") & [Gary A. Rizzo](https://en.wikipedia.org/wiki/Gary_Rizzo "Lien Wikipédia") & [Kevin O'Connell](https://en.wikipedia.org/wiki/Kevin_O%27Connell_(sound_mixer) "Lien Wikipédia")|
 | BAFTA Award | Nommé | Meilleurs costumes | [Ellen Mirojnick](https://www.allocine.fr/personne/fichepersonne_gen_cpersonne=44692.html "Lien Allociné") |
 | BAFTA Award | Nommé | Meilleur scénario adapté | [Christopher Nolan](https://fr.wikipedia.org/wiki/Christopher_Nolan "Lien Wikipédia")|
-| BAFTA Award | Nommé | Meilleurs maquillages et coiffures | [Luisa Abel](https://en.wikipedia.org/wiki/Luisa_Abel "Lien Wikipédia") & Jason Hamer & Jaime Leigh McIntosh & Ahou Mofid|
+| BAFTA Award | Nommé | Meilleurs maquillages et coiffures | [Luisa Abel](https://en.wikipedia.org/wiki/Luisa_Abel "Lien Wikipédia") & [Jason Hamer](https://www.allocine.fr/personne/fichepersonne_gen_cpersonne=176959.html "Lien Allociné") & [Jaime Leigh McIntosh](https://www.allocine.fr/personne/fichepersonne_gen_cpersonne=1018548.html "Lien Allociné") & [Ahou Mofid](https://www.allocine.fr/personne/fichepersonne_gen_cpersonne=1018550.html "Lien Allociné")|
 | Golden Globes 2024 | Lauréat | Meilleur film dramatique | [...] |
 | Golden Globes 2024 | Nommé | Meilleure performance au box-office | [...] |
 | Golden Globes 2024 | Lauréat | Meilleur acteur dans un drame | [Cillian Murphy](https://fr.wikipedia.org/wiki/Cillian_Murphy "Lien wikipédia") |
