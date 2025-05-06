@@ -1,12 +1,12 @@
 # Oppenheimer
 
-Oppenheimer est un film écrit, produit et réalisé par Christopher Nolan et sortie au cinéma en 2023. Le film se base sur la vie de Oppenheimer, le physicien étant à l'origine des recherches sur la bombe atomique durant le Projet Manhattan. Le film se base sur la vision torturé du physicien méttant en opposion sa moral, son éthique avec la technologie dévastratrice qu'il recherche.
+*Oppenheimer* est un film écrit, produit et réalisé par Christopher Nolan, sorti au cinéma en 2023. Le film se base sur la vie de J. Robert Oppenheimer, le physicien à l'origine des recherches sur la bombe atomique durant le projet Manhattan. Il présente la vision torturée du physicien, mettant en opposition sa morale, son éthique et la technologie dévastatrice qu’il contribue à développer.
 
-## De quoi va t-on parler ?
+## De quoi va-t-on parler ?
 
-- Dans la rubrique **Histoire**, nous voir le synopsis du film ainsi que son histoire dans les détails, ceux qui ne veulent pas se faire spoil n'auront qu'à lire la première partie.
-- Dans la rubrique **Chiffre**, nous allons voir quelques chiffres intéressant et remarquant du film.
-- Dans la rubrique **Casting**, nous allons présenté le casting présent dans ce film.
-- Dans la rubrique **Avis**, je vais présenter mon avis sur le film.
-- Dans la rubrique **Source**, nous allons voir les sources utilisé pour faire ce site.
+- Dans la rubrique **Histoire**, nous verrons le synopsis du film ainsi que son déroulement en détail. Ceux qui ne veulent pas se faire spoiler n'auront qu'à lire la première partie.
+- Dans la rubrique **Chiffres**, nous verrons quelques données intéressantes et marquantes concernant le film.
+- Dans la rubrique **Casting**, nous présenterons les acteurs présents dans ce film.
+- Dans la rubrique **Avis**, je donnerai mon avis personnel sur le film.
+- Dans la rubrique **Sources**, nous verrons les sources utilisées pour réaliser ce site.
 

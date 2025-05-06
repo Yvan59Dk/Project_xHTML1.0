@@ -29,8 +29,8 @@ listMenu:
           - cible: Partie 5
             lien: "histoire.html#p5" 
 
-  # Variable pour le bloc de menu "Personnage Principaux"
-  - cible: Personnage Principaux
+  # Variable pour le bloc de menu "Personnages Principaux"
+  - cible: Personnages Principaux
     lien: "personnage.html"
     list:
       - cible: Oppenheimer
@@ -48,7 +48,7 @@ listMenu:
         lien: "statistique.html#revenu"
 
   # Variable pour la ligne de menu "Casting"
-  - cible: Casting
+  - cible: Castings
     lien: "casting.html"
 
   # Variable pour le bloc de menu "Avis"
@@ -57,9 +57,9 @@ listMenu:
     list:
       - cible: Pourquoi ?
         lien: "avis.html#pourquoi"
-      - cible: Point Fort
+      - cible: Points Forts
         lien: "avis.html#point_fort"
-      - cible: Point Faible
+      - cible: Points Faibles
         lien: "avis.html#point_faible"
       - cible: Coup de Coeur
         lien: "avis.html#coup_coeur"
@@ -67,7 +67,7 @@ listMenu:
         lien: "avis.html#note"
 
   # Variable pour la ligne de menu "Source"
-  - cible: Source
+  - cible: Sources
     lien: "source.html"
 
 # L'ID 'auteurs'
