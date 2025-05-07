@@ -5,7 +5,7 @@ Objectif : En faire un site internet.
 Aide : Le cours MISPI L1
 
 # Note importante
-Le site porte sur Oppenheimer qui n'est aucunement une série. Le probléme est simple, je ne regarde pas du tout de série mais beaucoup plus de film, l'un ayant marqué le plus étant Oppenheimer.
+Le site porte sur Oppenheimer qui n'est aucunement une série. Le probléme étant que je ne regarde pas du tout de série mais beaucoup plus de film, l'un ayant marqué le plus étant Oppenheimer. Veuillez m'excuser pour cela.
 
 ## Lien vers le Github
 

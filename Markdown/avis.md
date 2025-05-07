@@ -11,7 +11,7 @@ J'ai choisi ce film car il m'a énormément marqué, de par la direction artisti
 ### Points faibles
 
 - **La longueur du film** : Le film dure 3h ; le temps d’installer le contexte, l’histoire, les personnages et le caractère un peu spécial du personnage principal. Mais certaines personnes n’ont pas forcément ce temps disponible, ce qui limite le nombre de personnes prêtes à le regarder.
-- **Son rythme parfois lent** : Ajoutée à sa longueur, l'installation du film prend énormément de temps. Par exemple, il faut attendre environ 1h pour commencer à parler de bombe nucléaire et du **projet Manhattan**.
+- **Son rythme parfois lent** : Ajoutée à sa longueur, l'installation du film prend énormément de temps. Par exemple, il faut attendre environ 1h pour commencer à parler de bombe nucléaire et du **Projet Manhattan**.
 
 ### Coups de cœurs
 
@@ -19,7 +19,7 @@ J'ai choisi ce film car il m'a énormément marqué, de par la direction artisti
 La bande-son mêle mélancolie, espoir, drame, le tout en rappelant à chaque note au spectateur l'engin de destruction massive créé par cet homme.
 - **La scène du test Trinity** : Cette scène est l’apogée de la tension du film. La bombe d’essai est lancée, les personnages ne savent pas à quel point elle va être destructrice. Mais les spectateurs connaissent les dégâts qu’elle engendre, alors pour pallier cela, les réalisateurs nous ont fait entendre quelque chose de pire que le cri d’angoisse du monde : le silence.  
 Un silence qui a paru éternel, nous faisant attendre le résultat autant que les personnages. Un silence en opposition totale à tout ce qu’on a vu dans le film, où le son et la musique sont omniprésents. Un silence qui en dit long.  
-Puis l’onde de choc arrive, brisant le silence — et nos tympans par la même occasion. Pour moi, cette scène est un chef-d’œuvre de réalisation, rien que pour le *"comment est-elle faite ?"*
+Puis l’onde de choc arrive, brisant le silence — et nos tympans par la même occasion. Pour moi, cette scène est un chef-d’œuvre de réalisation, rien que pour le *"Comment est-elle faite ?"*
 
 ***
 
