@@ -1,7 +1,7 @@
 # Les infos généraux
 titre: Un Site sur Oppenheimer
 lang: FR
-css: "../css/znatchko-Yavorsky_Gabriel.css"
+css: "../css/style.css"
 
 # Le menu sous forme de liste de liste.
 listMenu: 
