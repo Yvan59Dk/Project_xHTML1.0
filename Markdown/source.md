@@ -8,3 +8,4 @@ Pour faire ces pages, j'ai utilisé ces sources :
 - [Allociné](https://www.allocine.fr "Lien Allociné")
 - [Le site à Petrie Willink](https://www.petriewillink.com "Lien vers le site à Petrie Willink")
 - [TV-Programme](https://tv-programme.com/ "Lien TV-Programme")
+- [Science Critique](https://www.senscritique.com/film/oppenheimer/45419890/details "Lien SensCritique")

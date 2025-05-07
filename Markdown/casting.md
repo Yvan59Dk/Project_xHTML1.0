@@ -63,3 +63,5 @@ Les acteurs secondaires présents dans le casting de Oppenheimer :
 - Hans Bethe : [Gustaf Skarsgård](https://fr.wikipedia.org/wiki/Gustaf_Skarsg%C3%A5rd)
 - Kurt Gödel : [James Urbaniak](https://fr.wikipedia.org/wiki/James_Urbaniak)
 - George Kistiakowsky : [Trond Fausa Aurvåg](https://fr.wikipedia.org/wiki/Trond_Fausa_Aurv%C3%A5g)
+
+Source : [Science Critique](https://www.senscritique.com/film/oppenheimer/45419890/details "Lien SensCritique")

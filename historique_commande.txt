@@ -12,3 +12,4 @@ Historique de commande pandoc utilisé :
 >>> pandoc avis.md -o avis.html --template=template/template.html --metadata-file=template/variable.yaml
 >>> pandoc source.md -o source.html --template=template/template.html --metadata-file=template/variable.yaml
 >>> pandoc personnage.md -o personnage.html --template=template/template.html --metadata-file=template/variable.yaml
+>>> pandoc technique.md -o technique.html --template=template/template.html --metadata-file=template/variable.yaml

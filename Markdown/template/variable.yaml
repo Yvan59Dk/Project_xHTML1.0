@@ -5,6 +5,10 @@ css: "../css/znatchko-Yavorsky.css"
 
 # Le menu sous forme de liste de liste.
 listMenu: 
+  # Variable pour la ligne de menu "Fiche Technique"
+  - cible: Fiche Technique
+    lien: "technique.html"
+
   # Variable pour la ligne de menu "Accueil"
   - cible: Accueil
     lien: "index.html"
@@ -13,21 +17,16 @@ listMenu:
   - cible: Histoire
     lien: "histoire.html"
     list:
-      - cible: Synopsis
-        lien: "histoire.html#synopsis"
-      - cible: Histoire
-        lien: "histoire.html#histoire"
-        list :
-          - cible: Partie 1
-            lien: "histoire.html#p1"
-          - cible: Partie 2
-            lien: "histoire.html#p2"
-          - cible: Partie 3
-            lien: "histoire.html#p3"
-          - cible: Partie 4
-            lien: "histoire.html#p4"
-          - cible: Partie 5
-            lien: "histoire.html#p5" 
+      - cible: Partie 1
+        lien: "histoire.html#p1"
+      - cible: Partie 2
+        lien: "histoire.html#p2"
+      - cible: Partie 3
+        lien: "histoire.html#p3"
+      - cible: Partie 4
+        lien: "histoire.html#p4"
+      - cible: Partie 5
+        lien: "histoire.html#p5" 
 
   # Variable pour le bloc de menu "Personnages Principaux"
   - cible: Personnages Principaux

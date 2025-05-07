@@ -1,146 +1,147 @@
 :root{ /* Espace de stockage des couleurs dans des variables */
-    --principal-color: #d18d72;                     /* Couleur principal du site : Pour le fond de contenu */
-    --secondary-color: #c27545;                     /* Couleur secondaire du site : Pour le menu ainsi que les éélments mise en évidence */
-    --tertiaire-color: #c9b2a9;                     /* Couleur tertiaire du site : Pour les plus petit éléments */
-    --title-color: #c94a00;                         /* Couleur de background pour le titre du site */
-    --h-color: #92695e;                             /* Couleur de background pour les h1,h2 et h3 du site */
-    --black-color: #251d1b;                         /* Couleur noir mais pas totalement, pour évité d'utilisé un noir trop sombre */
+    --principal-color: #d18d72;                      /* Couleur principale du site : pour le fond du contenu. */
+    --secondary-color: #c27545;                      /* Couleur secondaire du site : pour le menu ainsi que les éléments mis en évidence. */
+    --tertiaire-color: #c9b2a9;                      /* Couleur tertiaire du site : pour les plus petits éléments. */
+    --title-color: #c94a00;                          /* Couleur de fond pour le titre du site. */
+    --h-color: #92695e;                              /* Couleur de fond pour les h1, h2 et h3 du site. */
+    --black-color: #251d1b;                          /* Couleur noire mais pas totalement, pour éviter d'utiliser un noir trop sombre. */
 }
 
-/* ############################## */
-/* ######     Géneral      ###### */
-/* ############################## */
+/* ##################### */
+/* ###### Général ###### */
+/* ##################### */
 
 body {
-    margin : 0;                                        /* Annule la marge mise de base par HTML */
-    background-image: url("../images/background.png"); /* L'image en fond de site */ 
-    background-size: auto;                             /* Définit automatiquement la taille en fonction de la taille du site */
-    background-attachment: fixed;                      /* L'image en fond ne bouge pas lors du scroll */
-    background-position: center;                       /* L'image est mis au centre de la page */
+    margin : 0;                                        /* Annule la marge mise par défaut par HTML. */
+    background-image: url("../images/background.png"); /* L'image en fond du site. */ 
+    background-size: auto;                             /* Définit automatiquement la taille en fonction de la taille du site. */
+    background-attachment: fixed;                      /* L'image en fond ne bouge pas lors du défilement. */
+    background-position: center;                       /* L'image est mise au centre de la page. */
 }
 
-.center{ /* Classe permettant de centrer un contenu bien précis */
-    text-align: center;                                /* Aligne le texte au centre */
+.center{ /* Classe permettant de centrer un contenu précis */
+    text-align: center;                                /* Aligne le texte au centre. */
 }
-.center-image { /* Classe servant à mettre un élément réticent au milieu de la page ( exemple : image ) */
-    display: block;                                    /* Bloque l'élement */
-    margin-left: auto;                                 /* Met l'élement au milieu de son bloc peu importe sa taille */
+.center-image { /* Classe servant à centrer un élément réticent (ex : image). */
+    display: block;                                    /* Rend l'élément en bloc. */
+    margin-left: auto;                                 /* Centre l'élément horizontalement dans son bloc. */
     margin-right: auto;
 }
-
-/* ############################## */
-/* ######      Titre       ###### */
-/* ############################## */
-
-#titre {
-    padding: 1%;                                       /* Met de l'espace pour laisser "respiré" le titre */
-    border-bottom-style: double;                       /* Bordure inférieur seulement car la seule qui est utile pour le #titre */
-    font-size: xx-large;                               /* Augmente la taille de la police pour que le #titre soit plus gros que l'ensemble. */ 
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; /* Police d'écriture du #titre */
-    text-align: center;                                /* Aligne le texte du #titre au centre */
-    background: var(--title-color);                             /* Met la couleur du bloc #titre en orange */                
+.no-decoration { /* Classe servant à enlever la décoration des listes */
+    margin-left: -2em;                                 /* Supprime le décalage naturel des listes en HTML. */
+    list-style: none;                                  /* Supprime les puces des listes. */
 }
 
-/* ############################## */
-/* ###### Contenu du site  ###### */
-/* ############################## */
+/* ################### */
+/* ###### Titre ###### */
+/* ################### */
 
-#body { /* Paramétre influençant le bloc #body => Sur #menu et #contenu */
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; /* La police d'écriture du #menu + #contenu */
+#titre {
+    padding: 1%;                                       /* Met de l'espace pour laisser "respirer" le titre. */
+    border-bottom-style: double;                       /* Bordure inférieure uniquement, car seule utile pour #titre. */
+    font-size: xx-large;                               /* Augmente la taille de la police pour que #titre soit plus grand que le reste. */ 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; /* Police d'écriture de #titre. */
+    text-align: center;                                /* Centre le texte de #titre. */
+    background: var(--title-color);                    /* Met la couleur de fond de #titre en orange. */                
+}
+
+/* ############################# */
+/* ###### Contenu du site ###### */
+/* ############################# */
+
+#body { /* Paramètre influençant le bloc #body => sur #menu et #contenu */
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; /* Police d'écriture de #menu et #contenu */
 }
 
 /* ################## */
 /* ###### Menu ###### */
 /* ################## */
 
-#menu { /* Paramétre influençant le bloc #menu */
-    float : left;                                       /* Place le bloc #menu à gauche du site */
-    width : 220px;                                      /* Définis la taille du bloc #menu à 220px */
-    border-bottom-right-radius: 5%;                     /* Arrondis le coin bas droite pour fluidifier le #menu */ 
-    background-color: var(--secondary-color);           /* Met la couleur du bloc #menu en orange clair */
-    border-left-style: double;                          /* Définit le style de bordure partout sauf du côté gauche car coller à la limite du site. */
+#menu { /* Paramètre influençant le bloc #menu */
+    float : left;                                     /* Place le bloc #menu à gauche du site */
+    width : 220px;                                    /* Définit la largeur du bloc #menu à 220px */
+    border-bottom-right-radius: 5%;                   /* Arrondit le coin en bas à droite pour adoucir le #menu */ 
+    background-color: var(--secondary-color);         /* Met la couleur du bloc #menu en orange clair */
+    border-left-style: double;                        /* Bordure partout sauf à gauche (collée à la limite du site). */
     border-right-style: double;
     border-bottom-style: double;
 }
 
-#menu h3 {  /* Paramétre influant le h3 contenu dans #menu */
-    border-bottom-style: double;                        /* Seule la bordure inférieur est changé car le reste est déjà stylisé par d'autres blocs */
-    padding: 5%;                                        /* Augmentation du padding pour laisser de l'espace au h3 */
-    margin-top: auto;                                   /* Gére automatiquement l'espace supérieur du h3 */
-    text-align: center;                                 /* Aligne le texte au centre */
-    background-color: var(--tertiaire-color);           /* Définit la couleur du bloc en belge */
+#menu h3 {  /* Paramètre influençant le h3 contenu dans #menu */
+    border-bottom-style: double;                      /* Seule la bordure inférieure est modifiée ici. */
+    padding: 5%;                                      /* Ajoute de l'espace autour du h3 */
+    margin-top: auto;                                 /* Gère automatiquement l'espace au-dessus du h3 */
+    text-align: center;                               /* Centre le texte */
+    background-color: var(--tertiaire-color);         /* Définit la couleur du bloc en beige */
 }
 
 /* ##################### */
 /* ###### Contenu ###### */
 /* ##################### */
 
-.surligne { /* Classe qui s'occupe de surligné des cases d'un tableau */
-    background-color: #dfd111;                        /* Change le fond en jaune */
+.surligne { /* Classe qui surligne des cases d'un tableau */
+    background-color: #dfd111;                      /* Change le fond en jaune */
 }
 
-.nothing {  /* Classe qui s'occupe de surligné des cases d'un tableau ( celle vide ) */
-    color: aliceblue;                                 /* Change la couleur du texte en "alicebleu" */
-    background-color: var(--black-color);               /* Change le fond en noir ( pas total ) */
-    text-align: center;                                 /* Aligne le texte au centre */
+.nothing {  /* Classe qui surligne les cases vides d'un tableau */
+    color: aliceblue;                               /* Change la couleur du texte en bleu clair */
+    background-color: var(--black-color);             /* Change le fond en noir (pas total) */
+    text-align: center;                               /* Centre le texte */
 }
 
-#contenu { /* Paramétre influant sur le bloc #contenu */
-    font-size: large;                                   /* Augmentation de la taille d'écriture */                         
-    background: var(--principal-color);                 /* Définit la couleur du bloc en blege rosé */
-    margin-left: 220px;                                 /* Pousse le bloc vers la gauche de 220 px, taille du #menu */
-    padding: 2%;                                        /* Augmentation du padding pour laisser de l'espace au contenu */
+#contenu { /* Paramètre influençant le bloc #contenu */
+    font-size: large;                                 /* Augmente la taille de la police */                         
+    background: var(--principal-color);               /* Définit la couleur de fond en beige rosé */
+    margin-left: 220px;                               /* Décale le bloc vers la droite pour laisser la place au #menu */
+    padding: 2%;                                      /* Ajoute de l'espace autour du contenu */
 }
 
-#contenu h1 { /* Paramétre influant sur les h1 de #contenu */
-    background-color: var(--h-color);                   /* Définit la couleur du bloc marron clair */
-    color: #f1ebe8;                                   /* Définit la couleur d'écriture du texte en belge trés clair */
-    padding-top: 0.3em;                                 /* Met un espace dans le bloc en haut et en bas pour laisser de l'espace au h1 */
+#contenu h1 { /* Paramètre influençant les h1 de #contenu */
+    background-color: var(--h-color);                 /* Définit une couleur de fond marron clair */
+    color: #f1ebe8;                                 /* Définit une couleur de texte beige très clair */
+    padding-top: 0.3em;                               /* Ajoute un espace au-dessus et en dessous du h1 */
     padding-bottom: 0.3em;
-    text-align: center;                                 /* Aligne le texte au centre du bloc */
+    text-align: center;                               /* Centre le texte */
 }
 
-#contenu h2 { /* Paramétre influant sur les h2 de #contenu */
-    text-align: center;                                 /* Aligne le texte au centre du bloc */
-    background-color: var(--h-color);                   /* Définit la couleur du bloc marron clair */
-    border-style: solid;                                /* Définit le style de la bordure en solid */
-    border-top-left-radius: 35%;                        /* Arrondis fortement les angles haut gauche et haut droite pour faire une sorte de style... */
+#contenu h2 { /* Paramètre influençant les h2 de #contenu */
+    text-align: center;                               /* Centre le texte */
+    background-color: var(--h-color);                 /* Couleur de fond marron clair */
+    border-style: solid;                              /* Bordure de type solide */
+    border-top-left-radius: 35%;                      /* Arrondit fortement les coins en haut à gauche et à droite */
     border-top-right-radius: 35%;   
-    margin-right: 25%;                                  /* Met une grosse marge pour centrer le h2 au centre du bloc #contenu */
+    margin-right: 25%;                                /* Crée une marge pour centrer le h2 */
     margin-left: 25%;
 }
 
-#contenu h3{ /* Paramétre influant sur les h3 de #contenu */
-    margin-left: 1em;                                   /* Met une marge pour crée un alinéa */
+#contenu h3{ /* Paramètre influençant les h3 de #contenu */
+    margin-left: 1em;                                 /* Crée un alinéa */
 }
 
-#contenu img { /* Paramétre influant sur les images de #contenu */
-    margin: auto;                                       /* Centre l'image */
-    border-style: solid;                                /* Met un cadre à l'image */
-    border-width: 0.2em;                                /* Met la taille du cadre à 0.2em */
+#contenu img { /* Paramètre influençant les images de #contenu */
+    margin: auto;                                     /* Centre l'image */
+    border-style: solid;                              /* Ajoute une bordure */
+    border-width: 0.2em;                              /* Épaisseur de la bordure */
 }
-#contenu #note{ /* Paramétre influant le bloc #note contenu dans le bloc #contenu */
-    text-align: center;                                 /* Aligne le texte au centre */
+#contenu #note{ /* Paramètre influençant le bloc #note contenu dans #contenu */
+    text-align: center;                               /* Centre le texte */
 }
-#contenu table{ /* Paramétre influant les tableaux de #contenu */
-    margin: auto;                                       /* Aligne le tableau au centre */
+#contenu table{ /* Paramètre influençant les tableaux de #contenu */
+    margin: auto;                                     /* Centre le tableau */
 }
-#contenu table td { /* Paramétre influant les td des tableaux de #contenu */
-    margin: 5%;                                         /* Définit une marge pour mieux voir les td */
+#contenu table td { /* Paramètre influençant les cellules td */
+    margin: 5%;                                       /* Ajoute une marge pour mieux distinguer les cellules */
 }
-#contenu table th { /* Paramétre influant les th des tableaux de #contenu */
-    background-color: var(--secondary-color);           /* Met la couleur des blocs de th en orange foncé */
+#contenu table th { /* Paramètre influençant les cellules th */
+    background-color: var(--secondary-color);         /* Définit la couleur de fond en orange foncé */
 }
 
 /* ##################### */
 /* ###### Auteurs ###### */
 /* ##################### */
 
-#auteurs { /* Paramétre influant sur le bloc #auteurs */
-    color: aliceblue;                /* Définit la couleur du bloc en blanc */
-    background: var(--black-color);    /* Définit la couleur d'écriture du texte en noir */
-    text-align: center;                /* Met le texte au centre */
+#auteurs { /* Paramètre influençant le bloc #auteurs */
+    color: aliceblue;                              /* Couleur du texte en bleu clair */
+    background: var(--black-color);                  /* Fond en noir atténué */
+    text-align: center;                              /* Centre le texte */
 }
-
-
-

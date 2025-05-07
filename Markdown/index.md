@@ -4,6 +4,7 @@
 
 ## De quoi va-t-on parler ?
 
+- Dans la rubrique **Fiche Technique** se trouve la fiche technique du site.
 - Dans la rubrique **Histoire**, nous verrons le synopsis du film ainsi que son déroulement en détail. Ceux qui ne veulent pas se faire spoiler n'auront qu'à lire la première partie.
 - Dans la rubrique **Chiffres**, nous verrons quelques données intéressantes et marquantes concernant le film.
 - Dans la rubrique **Casting**, nous présenterons les acteurs présents dans ce film.
